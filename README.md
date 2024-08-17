@@ -14,5 +14,21 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/BorimirGanchev/ArimaS
-cd brainwave
+cd CompanyWebsite
 ```
+
+### Installation
+
+Install the project dependencies using npm:
+
+```bash
+npm install
+```
+
+### Running the Project
+
+```bash
+npm run dev
+```
+
+Open http://localhost:5173 in your browser to view the project.
